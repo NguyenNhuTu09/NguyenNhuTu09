@@ -9,7 +9,7 @@
 - **Backend:** Java, Spring Boot, REST API, MySQL, MongoDB  
 - **Frontend (Basic):** HTML, CSS, JavaScript, ReactJS  
 - **Version Control:** Git, GitHub  
-- **Tools:** IntelliJ IDEA, Postman, Docker, Firebase, Cloudinary
+- **Tools:** VSCode, IntelliJ IDEA, Postman, Firebase, Cloudinary
 
 ---
 
