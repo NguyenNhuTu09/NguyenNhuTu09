@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Nguyen Nhu Tu!
 
-💻 **Aspiring Backend Developer Intern** | Passionate about Spring Boot, Java, and Databases  
+💻 **Aspiring Backend Developer** | Passionate about Spring Boot, Java
 🎯 Building scalable backend applications and gaining real-world development experience  
 
 ---
@@ -9,7 +9,7 @@
 - **Backend:** Java, Spring Boot, REST API, MySQL, MongoDB  
 - **Frontend (Basic):** HTML, CSS, JavaScript, ReactJS  
 - **Version Control:** Git, GitHub  
-- **Tools:** VSCode, IntelliJ IDEA, Postman, Firebase, Cloudinary
+- **Tools:** VSCode, IntelliJ IDEA, Postman, Firebase, Cloudinary, Docker
 
 ---
 
